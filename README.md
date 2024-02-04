@@ -1,4 +1,4 @@
-# Welcome to AWS Secres CDK TypeScript project:
+# Welcome to AWS Secrets CDK TypeScript project:
 
 This is a sample AWS CDK application written in TypeScript that demonstrates how to deploy a Lambda function and retrieve a secret from AWS Secrets Manager. This example assumes that you have already created a secret in AWS Secrets Manager.
 
